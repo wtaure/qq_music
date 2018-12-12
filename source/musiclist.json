@@ -1,0 +1,57 @@
+[
+{
+	"name":"POP_STARS",
+	"singer":"KDA",
+	"album":"英雄联盟全球总决赛官方主题曲",
+	"time":"03:11",
+	"link_url":"./source/POP_STARS.mp3",
+	"cover":"./source/POP_STARS..jpg",
+	"link_lrc":"./source/text.txt"
+},
+{
+	"name":"ZARD -     サヨナラ言えなくて",
+	"singer":"ZARD",
+	"album":"ZARD",
+	"time":"04:02",
+	"link_url":"./source/ZARD -     サヨナラ言えなくて.mp3",
+	"cover":"./source/ZARD -     サヨナラ言えなくて.jpg",
+	"link_lrc":"./source/text.txt"
+},
+{
+	"name":"ZARD - ハイヒール脱ぎ捨てて (脱掉高跟鞋)",
+	"singer":"ZARD",
+	"album":"ZARD",
+	"time":"05:20",
+	"link_url":"./source/ZARD - ハイヒール脱ぎ捨てて (脱掉高跟鞋).mp3",
+	"cover":"./source/ZARD - ハイヒール脱ぎ捨てて (脱掉高跟鞋).jpg",
+	"link_lrc":"./source/text.txt"
+},
+{
+	"name":"ZARD -     来年の夏も (明年夏天也)",
+	"singer":"ZARD",
+	"album":"ZARD",
+	"time":"04:33",
+	"link_url":"./source/ZARD -     来年の夏も (明年夏天也).mp3",
+	"cover":"./source/ZARD -     来年の夏も (明年夏天也).jpg",
+	"link_lrc":"./source/text.txt"
+},
+{
+	"name":"ZARD -     眠れない夜を抱いて (拥抱失眠的夜晚)",
+	"singer":"ZARD",
+	"album":"ZARD",
+	"time":"04:27",
+	"link_url":"./source/ZARD -     眠れない夜を抱いて (拥抱失眠的夜晚).mp3",
+	"cover":"./source/ZARD -     眠れない夜を抱いて (拥抱失眠的夜晚).jpg",
+	"link_lrc":"./source/text.txt"
+},
+{
+	"name":"ZARD -     負けないで (不要认输)",
+	"singer":"ZARD",
+	"album":"ZARD",
+	"time":"03:48",
+	"link_url":"./source/ZARD -     負けないで (不要认输).mp3",
+	"cover":"./source/ZARD -     負けないで (不要认输).jpg",
+	"link_lrc":"./source/text.txt"
+}
+
+]
